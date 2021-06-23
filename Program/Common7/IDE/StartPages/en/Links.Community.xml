@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<items>
+  <discovertitle id="discovertitle">Discover Visual Studio %VSSKU_INFO%</discovertitle>
+  <discovertext id="discovertext_ce">Get the most from Visual Studio with these resources:</discovertext>
+  <discovercommands>
+    <command>
+      <commandtype>Browse</commandtype>
+      <title id="learn_new_features_in_vs12_ce">New to Visual Studio? Check out coding tutorials and sample projects</title>
+      <parameter>http://go.microsoft.com/fwlink/p/?LinkId=517356&amp;clcid=%VSSPV_LCID_HEX%</parameter>
+    </command>
+    <command>
+      <commandtype>Browse</commandtype>
+      <title id="tutorials_videos_samples_ce">Get training on new frameworks, languages, and technologies</title>
+      <parameter>http://go.microsoft.com/fwlink/p/?LinkId=517358&amp;clcid=%VSSPV_LCID_HEX%</parameter>
+    </command>
+    <command>
+      <commandtype>Browse</commandtype>
+      <title id="create_private_repo_ce">Create a private code repo and backlog for your project</title>
+      <parameter>http://go.microsoft.com/fwlink/p/?LinkId=517359&amp;clcid=%VSSPV_LCID_HEX%</parameter>
+    </command>
+    <command>
+      <commandtype>Browse</commandtype>
+      <title id="get_started_with_cloud_ce">See how easy it is to get started with cloud services</title>
+      <parameter>http://go.microsoft.com/fwlink/p/?LinkId=517367&amp;clcid=%VSSPV_LCID_HEX%</parameter>
+    </command>
+    <command>
+      <commandtype>Browse</commandtype>
+      <title id="discover_extensibility_ce">Discover ways to extend and customize the IDE</title>
+      <parameter>http://go.microsoft.com/fwlink/p/?LinkId=517368&amp;clcid=%VSSPV_LCID_HEX%</parameter>
+    </command>
+  </discovercommands>
+  <discovernothanks id="discovernothanks">No thanks, maybe later.</discovernothanks>
+  <whatsnewtitle id="whatsnewtitle">What's new on Microsoft Platforms</whatsnewtitle>
+  <whatsnewcommands>
+    <command>
+      <commandtype>Browse</commandtype>
+      <image>windows8.png</image>
+      <title id="whats_new_in_win">Windows</title>
+      <parameter>http://go.microsoft.com/fwlink/p/?LinkId=517362&amp;clcid=%VSSPV_LCID_HEX%</parameter>
+    </command>
+    <command>
+      <commandtype>Browse</commandtype>
+      <image>winazure.png</image>
+      <title id="whats_new_in_winazure">Microsoft Azure</title>
+      <parameter>http://go.microsoft.com/fwlink/p/?LinkId=517363&amp;clcid=%VSSPV_LCID_HEX%</parameter>
+    </command>
+    <command>
+      <commandtype>Browse</commandtype>
+      <image>aspdotnet.png</image>
+      <title id="whats_new_in_aspdotnet">ASP.NET and Web</title>
+      <parameter>http://go.microsoft.com/fwlink/p/?LinkId=517365&amp;clcid=%VSSPV_LCID_HEX%</parameter>
+    </command>
+    <command>
+      <commandtype>Browse</commandtype>
+      <image>winphone.png</image>
+      <title id="whats_new_in_winphone">Windows Phone</title>
+      <parameter>http://go.microsoft.com/fwlink/p/?LinkId=517366&amp;clcid=%VSSPV_LCID_HEX%</parameter>
+    </command>
+  </whatsnewcommands>
+  <announcementsfeed>http://go.microsoft.com/fwlink/p/?LinkId=517360&amp;clcid=%VSSPV_LCID_HEX%</announcementsfeed>
+  <MoreAnnouncementsLink>http://go.microsoft.com/fwlink/p/?LinkId=517361&amp;clcid=%VSSPV_LCID_HEX%</MoreAnnouncementsLink>
+</items>
